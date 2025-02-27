@@ -1,0 +1,7 @@
+max_by_minimal_point
+
+show
+
+save
+
+execute_script execute1.txt
